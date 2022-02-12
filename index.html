@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.0-beta1/css/bootstrap.min.css"
+        integrity="sha512-thoh2veB35ojlAhyYZC0eaztTAUhxLvSZlWrNtlV01njqs/UdY3421Jg7lX0Gq9SRdGVQeL8xeBp9x1IPyL1wQ=="
+        crossorigin="anonymous" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.0-beta1/css/bootstrap.min.css"
+        integrity="sha512-thoh2veB35ojlAhyYZC0eaztTAUhxLvSZlWrNtlV01njqs/UdY3421Jg7lX0Gq9SRdGVQeL8xeBp9x1IPyL1wQ=="
+        crossorigin="anonymous" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <link rel="icon"
+        href="https://www.libraseguros.com.ar/wp-content/uploads/2019/04/cropped-libra-placa-logo-32x32.png"
+        sizes="32x32">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Home | Cotizador Automotriz</title>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark navegador" aria-label="Main navigation">
+            <div class="container-fluid alinLogo">
+                <a class="navbar-brand logo" href="index.html"><img src="img/segurosLibra.png"
+                        alt="logotipo-libra-seguros" width="70wh">
+                    <h1 class="titleH1">Libra Seguros</h1>
+                </a>
+                <button class="navbar-toggler p-0 border-0" type="button" data-bs-toggle="offcanvas"
+                    aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0 alinNav">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="index.html">Inicio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href=" ">Nosotros</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href=" ">Coberturas</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href=" ">Siniestros</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href=" ">Beneficios</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href=" ">Trabaja con nosotros</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href=" ">Contactanos</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <p><button id="clear">Borrar localStorage (recargar la página para que borre)</button></p>
+        </nav>
+    </header>
+
+    <main class="container alinear">
+        <!-- MAIN IMAGE -->
+        <div class="slotholder"
+            style="position: absolute; top: 0px; left: 0px; z-index: 0; width: 100%; height: 100%; visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
+            <div class="tp-bgimg defaultimg " data-bgcolor="undefined"
+                style="background-repeat: no-repeat; background-image: url(&quot;https://www.libraseguros.com.ar/wp-content/uploads/2021/03/banner-ot-web-2-1.png&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;"
+                src="https://www.libraseguros.com.ar/wp-content/uploads/2021/03/banner-ot-web-2-1.png">
+            </div>
+        </div>
+        
+        <div id="containerForm" style="display: none;"></div>
+        <div id="customerResponse" style="display: none;"></div>
+
+    </main>
+    <!--------------------- sector de scripts--------------------------->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js"
+        integrity="sha384-skAcpIdS7UcVUC05LJ9Dxay8AXcDYfBJqt1CJ85S/CFujBsIzCIv+l9liuYLaMQ/"
+        crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.js"
+        integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <script src="js/script.js"></script>
+    <script src="js/index.js"></script>
+</body>
+
+</html>
