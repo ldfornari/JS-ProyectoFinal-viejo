@@ -1,0 +1,187 @@
+[
+    {
+        "id": "Peugeot",
+        "name": "205"
+    },
+    {
+        "id": "Peugeot",
+        "name": "206"
+    },
+    {
+        "id": "Peugeot",
+        "name": "207"
+    },
+    {
+        "id": "Peugeot",
+        "name": "208"
+    },
+    {
+        "id": "Peugeot",
+        "name": "307"
+    },
+    {
+        "id": "Peugeot",
+        "name": "308"
+    },
+    {
+        "id": "Peugeot",
+        "name": "408"
+    },
+    {
+        "id": "Chevrolet",
+        "name": "Agile"
+    },
+    {
+        "id": "Citroën",
+        "name": "C4 Cactus"
+    },
+    {
+        "id": "Citroën",
+        "name": "C3 Aircross"
+    },
+    {
+        "id": "Chevrolet",
+        "name": "Astra"
+    },
+    {
+        "id": "Volkswagen",
+        "name": "T-Cross"
+    },
+    {
+        "id": "Volkswagen",
+        "name": "Bora"
+    },
+    {
+        "id": "Peugeot",
+        "name": "Boxer"
+    },
+    {
+        "id": "Chevrolet",
+        "name": "C-10"
+    },
+    {
+        "id": "Citroën",
+        "name": "C5 Aircross"
+    },
+    {
+        "id": "Citroën",
+        "name": "C5"
+    },
+    {
+        "id": "Citroën",
+        "name": "Berlingo"
+    },
+    {
+        "id": "Citroën",
+        "name": "C3"
+    },
+    {
+        "id": "Chevrolet",
+        "name": "Classic"
+    },
+    {
+        "id": "Renault",
+        "name": "Clio"
+    },
+    {
+        "id": "Chevrolet",
+        "name": "Cobalt"
+    },
+    {
+        "id": "Chevrolet",
+        "name": "Spin"
+    },
+    {
+        "id": "Chevrolet",
+        "name": "Cruze"
+    },
+    {
+        "id": "Renault",
+        "name": "Duster"
+    },
+    {
+        "id": "Renault",
+        "name": "Duster Oroch"
+    },
+    {
+        "id": "Ford",
+        "name": "Mondeo"
+    },
+    {
+        "id": "Ford",
+        "name": "Fiesta"
+    },
+    {
+        "id": "Fiat",
+        "name": "Toro"
+    },
+    {
+        "id": "Fiat",
+        "name": "Cronos"
+    },
+    {
+        "id": "Renault",
+        "name": "Fluence"
+    },
+    {
+        "id": "Ford",
+        "name": "Focus"
+    },
+    { 
+        "id": "Volkswagen",
+        "name": "Gol"
+    },
+    {
+        "id": "Volkswagen",
+        "name": "Gol Country"
+    },
+    {
+        "id": "Volkswagen",
+        "name": "Suran"
+    },
+    {
+        "id": "Volkswagen",
+        "name": "Golf"
+    },
+    {
+        "id": "Ford",
+        "name": "Ka"
+    },
+    {
+        "id": "Renault",
+        "name": "Kangoo"
+    },
+    {
+        "id": "Renault",
+        "name": "Megane"
+    },
+    {
+        "id": "Fiat",
+        "name": "Palio"
+    },
+    {
+        "id": "Fiat",
+        "name": "Palio Adventure"
+    },
+    {
+        "id": "Fiat",
+        "name": "Palio Weekend"
+    },
+    {
+        "id": "Renault",
+        "name": "Partner",
+        "brand": "Renault"
+    },
+    {
+        "id": "Renault",
+        "name": "Sandero"
+    },
+    {
+        "id": "Renault",
+        "name": "Sandero Stepway"
+    },
+    {
+        "id": "Fiat",
+        "name": "Uno"
+    }
+]

@@ -46,28 +46,40 @@ header li a {
   color: #e47317;
   font-size: 1.5rem;
   text-shadow: 2px 2px black;
-  text-align: center; }
-
-.bgH1 {
-  margin: 8rem 0 1rem;
-  font-weight: bold; }
+  text-align: center;
+  z-index: 1; }
 
 .alinear {
   width: 80%;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding-bottom: 4rem;
-  margin-top: 16rem;
- }
- .sizeForm {
-  width: 80%;
+  padding-bottom: 3rem;
+  margin-top: 5.5rem;}
+
+.sizeForm {
+  width: 70%;
   background-color: #e99c0d;
   border-radius: 1.5rem;
   border: 2px solid black;
   padding: 1rem;
-  opacity: .9 !important;
-  font-weight: bold; }
+  opacity: 1 !important;
+  font-weight: bold;
+  z-index: 1; }
+
+.form-control::placeholder{
+  color: black ; }
+
+.pNosotros {
+  width: 80%;
+  background-color: rgba(241, 238, 238, 0.5);
+  border-radius: 1.5rem;
+  border: 2.5px solid black;
+  padding: 1.5rem;
+  font-size: 1.1rem;
+  color: black;
+  margin: 1rem; 
+  z-index: 1;}
 
 
 @media (max-width: 991.98px) {
